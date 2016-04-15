@@ -1,0 +1,17 @@
+{
+  "name": "afrihost/dev-job",
+  "description": "PHP Software Developer Job",
+  "minimum-stability": "RC",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Sarel van der Walt",
+      "email": "devjob@afrihost.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "JobOpp\\": "src"
+    }
+  }
+}

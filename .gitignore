@@ -1,0 +1,14 @@
+.buildpath
+.project
+.settings
+.DS_Store
+.idea
+
+composer.phar
+composer.lock
+/vendor
+
+# Test Application
+/Tests/Fixtures/App/cache/
+/Tests/Fixtures/App/logs/
+/Tests/Fixtures/App/externals/
